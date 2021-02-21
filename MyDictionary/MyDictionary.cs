@@ -6,6 +6,7 @@ namespace MyDictionary
 {
     public class MyDictionary<T,A>
     {
+
         T[] _karray;//key
         A[] _varray;//value
         T[] _tempkarray;//gecici key
